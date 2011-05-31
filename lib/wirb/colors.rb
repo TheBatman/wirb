@@ -13,7 +13,7 @@ module Wirb
     :light_gray   => '0;37',
     
     # bold
-    :dark_gray    => '1;30',
+    :dark_gray    => '1;33',
     :light_red    => '1;31',
     :light_green  => '1;32',
     :yellow       => '1;33',
